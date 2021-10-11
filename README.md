@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @varun060604
+- 👋 Hi, I’m Varun Pandey
 - 👀 I’m interested in Android Development & Web Development.
 - 🌱 I’m currently persuing Deploma in Computer Engineering at Saraswati Institute of Technology in Khargar, Mumbai.
-- 💞️ I’m looking to collaborate on Android Development and Web Development
+- 💞️ I’m looking to collaborate on Android Development and Web Development Projects
 - 📫 You can mail me at varun060604@gmail.com
 
 <!---
